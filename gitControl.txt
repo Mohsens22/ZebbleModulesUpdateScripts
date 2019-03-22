@@ -1,4 +1,5 @@
 Zebble.WebApi
+Zebble.WebView
 Zebble.Vibration
 Zebble.Video
 Zebble.VideoPlayer
