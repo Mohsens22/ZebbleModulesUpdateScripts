@@ -26,6 +26,7 @@ Zebble.NavBarTabs
 Zebble.Messaging
 Zebble.Media
 Zebble.MapBox
+Zebble.Grid
 Zebble.Map
 Zebble.Lottie
 Zebble.AppLinks
