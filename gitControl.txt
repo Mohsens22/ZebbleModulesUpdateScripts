@@ -57,7 +57,6 @@ Zebble.ListView
 Zebble.LocalNotification
 Zebble.Location
 BikeSharing.Zebble
-MSharp.F7
 Zebble.Admob
 Zebble.Announcements
 Zebble.Billing
