@@ -66,13 +66,5 @@ Zebble.Facebook.Auth
 Zebble.Facebookarchive
 Zebble.FirebaseAuth
 Zebble.ImageCropper
-Zebble.Template
 Zebble.Testing
 Zebble.Widgets
-ZebblePractices
-ZebbleSamples.FirebaseAuth
-zebble-compile-zbl
-zebble-css
-zebble-image
-zebble-schema
-zebble-showcase
